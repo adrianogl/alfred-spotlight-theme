@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "name": "Spotlight Tahoe Dark",
+    "credit": "Adriano",
+    "visualEffectMode": 2,
+    "window": {
+      "color": "#1C1C1E40",
+      "paddingHorizontal": 10,
+      "paddingVertical": 10,
+      "width": 700,
+      "borderPadding": 0,
+      "borderColor": "#00000000",
+      "blur": 0,
+      "roundness": 30
+    },
+    "search": {
+      "background": "#FFFFFF14",
+      "backgroundSelected": "#A35BF566",
+      "paddingHorizontal": 14,
+      "paddingVertical": 10,
+      "spacing": 10,
+      "roundness": 22,
+      "text": {
+        "font": "System",
+        "size": 24,
+        "color": "#FFFFFFF2",
+        "colorSelected": "#FFFFFFF2"
+      }
+    },
+    "separator": {
+      "color": "#00000000",
+      "thickness": 0
+    },
+    "result": {
+      "backgroundSelected": "#6E5BF5D9",
+      "roundness": 12,
+      "paddingVertical": 6,
+      "iconPaddingHorizontal": 10,
+      "iconSize": 32,
+      "textSpacing": 4,
+      "text": {
+        "font": "System Medium",
+        "size": 15,
+        "color": "#FFFFFFF2",
+        "colorSelected": "#FFFFFFFF"
+      },
+      "subtext": {
+        "font": "System",
+        "size": 12,
+        "color": "#FFFFFF8C",
+        "colorSelected": "#FFFFFFCC"
+      },
+      "shortcut": {
+        "font": "System",
+        "size": 13,
+        "color": "#FFFFFF8C",
+        "colorSelected": "#FFFFFFCC"
+      }
+    },
+    "scrollbar": {
+      "color": "#FFFFFF33",
+      "thickness": 4
+    }
+  }
+}

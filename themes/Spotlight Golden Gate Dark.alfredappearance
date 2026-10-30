@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "name": "Spotlight Golden Gate Dark",
+    "credit": "Adriano",
+    "visualEffectMode": 2,
+    "window": {
+      "color": "#0B0B0EEB",
+      "paddingHorizontal": 8,
+      "paddingVertical": 8,
+      "width": 680,
+      "borderPadding": 1,
+      "borderColor": "#FFFFFF24",
+      "blur": 0,
+      "roundness": 36
+    },
+    "search": {
+      "background": "#00000000",
+      "backgroundSelected": "#A35BF566",
+      "paddingHorizontal": 18,
+      "paddingVertical": 14,
+      "spacing": 10,
+      "roundness": 28,
+      "text": {
+        "font": "System",
+        "size": 20,
+        "color": "#FFFFFFE6",
+        "colorSelected": "#FFFFFFF2"
+      }
+    },
+    "separator": {
+      "color": "#00000000",
+      "thickness": 0
+    },
+    "result": {
+      "backgroundSelected": "#6E5BF5D9",
+      "roundness": 14,
+      "paddingVertical": 7,
+      "iconPaddingHorizontal": 10,
+      "iconSize": 32,
+      "textSpacing": 4,
+      "text": {
+        "font": "System Medium",
+        "size": 15,
+        "color": "#FFFFFFF2",
+        "colorSelected": "#FFFFFFFF"
+      },
+      "subtext": {
+        "font": "System",
+        "size": 12,
+        "color": "#FFFFFF73",
+        "colorSelected": "#FFFFFFCC"
+      },
+      "shortcut": {
+        "font": "System",
+        "size": 13,
+        "color": "#FFFFFF73",
+        "colorSelected": "#FFFFFFCC"
+      }
+    },
+    "scrollbar": {
+      "color": "#FFFFFF26",
+      "thickness": 4
+    }
+  }
+}
